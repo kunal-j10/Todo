@@ -14,6 +14,7 @@ const styles = StyleSheet.create({
     color: "#FFFFFF",
     fontWeight: "bold",
     fontSize: 20,
+    width:'66%'
   },
   body: {
     backgroundColor: "#FFFFFF",
