@@ -60,6 +60,6 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 7. Demo Video of project
 
-   👉 Android Project Video :  [Click to view](assets/video/todo-android.webm)
+   👉 Android Project Video :  [Click to view](https://drive.google.com/file/d/1Y7WnttzCKzbSAm1omixZyrgAQZ_KtziV/view?usp=drive_link)
 
-   👉 iOS Project Video :  [Click to view](assets/video/todo-ios.mp4)
+   👉 iOS Project Video :  [Click to view](https://drive.google.com/file/d/1TLPMvf7OaZusH9GmE2y5CQCmnXULBWxl/view?usp=drive_link)
